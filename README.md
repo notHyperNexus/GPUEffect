@@ -12,4 +12,4 @@ This repository make your bored looking Windows with no GPUs become transparency
 ---------
 # Warning
 
-⚠️ If you run GPUEffect seconds times, we don't **What** will happen to your computer
+⚠️ If you run GPUEffect seconds times, we don't know **What** will happen to your computer
